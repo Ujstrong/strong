@@ -1,0 +1,1 @@
+console.log('Hello World!');  //콘솔에 출력
